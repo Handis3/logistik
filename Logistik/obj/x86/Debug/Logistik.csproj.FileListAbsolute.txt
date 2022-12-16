@@ -1,0 +1,13 @@
+D:\PBO II\Logistik\Logistik\obj\x86\Debug\Logistik.Properties.Resources.resources
+D:\PBO II\Logistik\Logistik\obj\x86\Debug\logistik.view.Home_frm.resources
+D:\PBO II\Logistik\Logistik\obj\x86\Debug\Logistik.csproj.GenerateResource.Cache
+D:\PBO II\Logistik\Logistik\bin\Debug\Logistik.exe
+D:\PBO II\Logistik\Logistik\bin\Debug\Logistik.pdb
+D:\PBO II\Logistik\Logistik\obj\x86\Debug\Logistik.exe
+D:\PBO II\Logistik\Logistik\obj\x86\Debug\Logistik.pdb
+D:\PBO II\Logistik\Logistik\obj\x86\Debug\logistik.view.spalshScreen.resources
+D:\PBO II\Logistik\Logistik\obj\x86\Debug\logistik.view.Login_frm.resources
+D:\PBO II\Logistik\Logistik\obj\x86\Debug\Logistik.csprojResolveAssemblyReference.cache
+D:\PBO II\Logistik\Logistik\obj\x86\Debug\logistik.view.MahasiswaFrm.resources
+D:\PBO II\Logistik\Logistik\obj\x86\Debug\logistik.view.barang_frm.resources
+D:\PBO II\Logistik\Logistik\obj\x86\Debug\logistik.view.data_frm.resources
